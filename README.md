@@ -10,3 +10,4 @@ A fun list of some bookmarklets I have lying around
 3 - Go on any page except for any local pages (i.e. New tabs, History, Settings) and click the bookmark
 
 4 - Done! Have fun with your new tools
+# Bookmarklet Info
