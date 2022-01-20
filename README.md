@@ -12,7 +12,23 @@ A fun list of some bookmarklets I have lying around
 4 - Done! Have fun with your new tools
 # Bookmarklet Info
 SOME BOOKMARKLETS DONT WORK ON SOME MORE ADVANCED/COMPLICATED WEBSITES
+
 For best results, try to use bookmarklets on simpler websites such as Github and Canvas
 
+Refresh to remove any changes
+
 3D Layers - Makes the components of a website look like 3D objects, and changes perspective when moving the mouse
+
 Asteroids - Makes a small game appear on the page, to win, you have to destroy everything in the website
+
+Blackhole - Moves all components to the center of the screen
+
+FontBomb - Creates a bomb where you click, has a countdown of 3s before exploding and pushing any text away
+
+Game - Ball game where you try to trap the 2 balls with walls that you make by clicking
+
+Gravity - Self-Explanatory, gives the website ad its components gravity
+
+Inspect - Enables text editing, simple
+
+MORE BOOKMARKLETS AND DESCRIPTIONS COMING SOON
