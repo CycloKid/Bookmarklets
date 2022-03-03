@@ -31,4 +31,20 @@ Gravity - Self-Explanatory, gives the website ad its components gravity
 
 Inspect - Enables text editing, simple
 
+Reverse Inspect - Disables text editing, alternative to refreshing the page
+
+Mouselight - Gives your cursor a fancy spotlight!
+
+Pinball - Opens a pinball game window
+
+Rainbow - Makes the website ~gay~
+
+Spookmarklet - Some kinda NPC thing? i dunno
+
+TabFaker - Changes the current tab title and favicon (icon) to a normal looking tab like google drive
+
+Tornado - Spin spin spin! This makes your tab almost unusable! (keyword: almost)
+
+Twirly - Makes anything you click twirl! "you spin me right round baby right 'round like a record baby right 'round right 'round"
+
 MORE BOOKMARKLETS AND DESCRIPTIONS COMING SOON
