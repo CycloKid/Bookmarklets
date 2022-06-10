@@ -48,3 +48,5 @@ Tornado - Spin spin spin! This makes your tab almost unusable! (keyword: almost)
 Twirly - Makes anything you click twirl! "you spin me right round baby right 'round like a record baby right 'round right 'round"
 
 MORE BOOKMARKLETS AND DESCRIPTIONS COMING SOON
+
+[https://google.com/](https://google.com/)
