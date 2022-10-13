@@ -50,3 +50,5 @@ Twirly - Makes anything you click twirl! "you spin me right round baby right 'ro
 MORE BOOKMARKLETS AND DESCRIPTIONS COMING SOON
 
 [https://google.com/](https://google.com/)
+
+[edittext](javascript: document.body.contentEditable = 'true';document.designMode = 'on';void 0)
